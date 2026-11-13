@@ -99,3 +99,11 @@ Answer: 192.168.56.1
 
 ### PENETRATION TESTING REPORT
 [NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](W2-PM-FINAL.docx.pdf)
+
+
+🖋️ Author
+Rishauna Gunning
+
+Cybersecurity Trainee B084
+
+https://www.linkedin.com/in/rishauna-gunning-876ab9109/
