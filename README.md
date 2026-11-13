@@ -66,11 +66,11 @@ Task6 Display & save the output topology in PDF Format on your desktop
 
  Task1 Download & install Zenmap from official website on your Windows PC:
 
-![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Download_&_install_Zenmap)
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Download_&_install_Zenmap.png)
 
  Open Zen-map:
 
-![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](NCAP_open)
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](NCAP_open.png)
 
  Task2 Find your local IP address & your LAN subnet:
 
@@ -78,7 +78,7 @@ Open CMD & run ipconfig command to find your PC’s local IP address &
 your local LAN subnet
 
  Task3 Find the list of live hosts/PC’s in your IP subnet:
-![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](NCAP_scan)
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](NCAP_scan.png)
 
 
  Task4 How many hosts are live in your subnet?
