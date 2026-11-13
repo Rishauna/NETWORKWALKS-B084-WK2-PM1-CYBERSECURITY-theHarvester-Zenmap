@@ -27,3 +27,14 @@ results to 1000.
 ## Read the usage instructions & guidelines:
 
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](theHarvester_Open.png)
+
+##In the terminal windows, type below command to start theHarvester & search for the
+required detail using Baidu:
+
+# $ theHarvester -d microsoft.com -l 1000 -b baidu
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Baidu_Scan.png)
+
+
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](theHarvester.png)
+
+
