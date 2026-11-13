@@ -82,6 +82,7 @@ your local LAN subnet
 
 
  Task4 How many hosts are live in your subnet?
+ 
 Answer: 1 host are live (including my PC)
 
  Task5 What are the IP addresses of the live hosts?
@@ -89,6 +90,7 @@ Answer: 1 host are live (including my PC)
 Answer: 192.168.56.1
 
 
-
  Task6 Display & save the output topology in PDF Format on your desktop
+[NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](.pdf)
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Topology.png)
 
