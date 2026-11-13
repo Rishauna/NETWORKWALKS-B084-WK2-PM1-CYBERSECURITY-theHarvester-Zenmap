@@ -19,6 +19,8 @@ The objective of this report is to demonstrate practical understanding of footpr
 6. Develop practical skills in using cybersecurity tools while ensuring all scanning activities are performed within an authorized environment.
 
 
+## TheHarvester based Footprinting Attacks
+
 ## Task 1. Find email IDs & sub-domains related to a target organization microsoft.com
 using the theHarvester tool in Kali Linux with Baidu. Set the limit of number of
 results to 1000.
@@ -49,3 +51,44 @@ results to 50.
 
 Text File 
 [NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](theHarvester.txt)
+
+
+## NETWORK SCANNING WITH ZENMAP
+
+##TASKS 
+
+Task1 Download & install Zenmap from official website on your Windows PC
+Task2 Find your local IP address & your LAN subnet
+Task3 Find the list of live hosts/PC’s in your IP subnet
+Task4 How many hosts are live in your subnet?
+Task5 What are the IP addresses of the live hosts?
+Task6 Display & save the output topology in PDF Format on your desktop
+
+# Task1 Download & install Zenmap from official website on your Windows PC:
+
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Download_&_install_Zenmap)
+
+# Open Zen-map:
+
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](NCAP_open)
+
+# Task2 Find your local IP address & your LAN subnet:
+
+Open CMD & run ipconfig command to find your PC’s local IP address &
+your local LAN subnet
+
+# Task3 Find the list of live hosts/PC’s in your IP subnet:
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](NCAP_scan)
+
+
+# Task4 How many hosts are live in your subnet?
+Answer: 1 host are live (including my PC)
+
+# Task5 What are the IP addresses of the live hosts?
+
+Answer: 192.168.56.1
+
+
+
+# Task6 Display & save the output topology in PDF Format on your desktop
+
