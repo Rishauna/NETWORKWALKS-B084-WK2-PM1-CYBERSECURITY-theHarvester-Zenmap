@@ -28,7 +28,7 @@ results to 1000.
 
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](theHarvester_Open.png)
 
-##In the terminal windows, type below command to start theHarvester & search for the
+## In the terminal windows, type below command to start theHarvester & search for the
 required detail using Baidu:
 
 # $ theHarvester -d microsoft.com -l 1000 -b baidu
@@ -38,3 +38,14 @@ required detail using Baidu:
 ![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](theHarvester.png)
 
 
+
+## Task 2. Find email IDs & sub-domains related to a target organization microsoft.com
+using the theHarvester tool in Kali Linux with all sources. Set the limit of number of
+results to 50.
+
+# theHarvester & search for therequired detail using all:
+
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Kali_Linux_Terminal.png)
+
+Text File 
+![NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP](Kali_Linux_Terminal.png)
